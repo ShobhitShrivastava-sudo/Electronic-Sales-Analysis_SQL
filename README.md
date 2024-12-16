@@ -1,1 +1,1 @@
-# Electronic-Sales-Analysis_SQL
+# Electronic_Sales_Analysis_SQL
